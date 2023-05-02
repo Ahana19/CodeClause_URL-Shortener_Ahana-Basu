@@ -1,0 +1,3 @@
+A URL shortener is a web application that takes a long URL and provides a shorter, more manageable URL that redirects to the original long URL. In this project, you can build a URL shortener using Python and Flask framework.
+
+The basic functionality of the project can be achieved by creating a Flask application that takes a long URL as input, generates a unique shortened URL using a hashing algorithm like SHA256 or MD5, and stores the mapping of the shortened URL to the original URL in a database like SQLite or MySQL.
